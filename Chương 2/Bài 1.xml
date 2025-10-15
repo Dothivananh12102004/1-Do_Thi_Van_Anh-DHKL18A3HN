@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Company>
+    <Name>Công ty ABC</Name>
+    <Director>
+        <Name>Nguyễn Văn A</Name>
+    </Director>
+    <Address>
+      <Street>123 Đường Giải Phóng</Street>
+      <District>Quận Hai Bà Trưng</District>
+      <City>Thành phố Hà Nội</City>
+    </Address>
+    <PhoneNumber>0582369841</PhoneNumber>
+    <TaxID>0123456789</TaxID>
+</Company>

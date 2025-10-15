@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Students> 
+    <student id="12345678">
+        <name>Nguyễn Văn A</name>
+        <year_of_birth>2004</year_of_birth>
+        <class>A1</class>
+        <gender>Male</gender>
+    </student> 
+    <student id="12345679">
+        <name>Lê Thị B</name>
+        <year_of_birth>2004</year_of_birth>
+        <class>A2</class>
+        <gender>Female</gender>
+    </student>
+    <student id="12345680">
+        <name>Nguyễn Văn C</name>
+        <year_of_birth>2004</year_of_birth>
+        <class>A1</class>
+        <gender>Male</gender>
+    </student>
+</Students>
