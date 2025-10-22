@@ -1,0 +1,22 @@
+{
+    "Students": [
+        {
+            "id": "SV001",
+            "name": "Nguyễn Văn A",
+            "class": "DHKL18A3HN",
+            "gender": "Nam"
+        },
+        {
+            "id": "SV002",
+            "name": "Trần Thị B",
+            "class": "DHKL18A3HN",
+            "gender": "Nữ"
+        },
+        {
+            "id": "SV003",
+            "name": "Phạm Văn C",
+            "class": "DHKL18A3HN",
+            "gender": "Nam"
+        }
+    ]
+}

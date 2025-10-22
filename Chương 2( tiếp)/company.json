@@ -1,0 +1,11 @@
+{
+    "company": "Công ty TNHH Đất Việt",
+    "address": "Đường Giải Phóng - Hà Nội",
+    "departments": [
+        {"name": "Đơn vị A1", "employees": 12},
+        {"name": "Đơn vị A2", "employees": 8},
+        {"name": "Đơn vị A3", "employees": 10},
+        {"name": "Đơn vị A4", "employees": 5},
+        {"name": "Đơn vị A5", "employees": 15}
+    ]
+}
